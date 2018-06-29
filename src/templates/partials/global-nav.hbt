@@ -1,0 +1,11 @@
+<header class="global--main-nav container animated">
+    <div class="global--main-nav-left">
+        <a href="/"><img src="/img/logos/logo.png"></a>
+    </div>
+    <nav class="global--main-nav-right">
+        <a href="/products" class="global--main-nav-item">Sample</a>
+    </nav>
+    <nav class="global--main-nav-mobile">
+      <button class="nav-cta mobile-menu-btn">Menu</button>
+    </nav>
+</header>
